@@ -6,4 +6,4 @@ An open-source library built on top of NumPy. It allows for fast analysis and da
 - Considered to be Python's version of "excel" or a substitute to R's data visualization
 
 # Installation
-- "pip install pandas" or if you're using Anaconda use "conda install pandas" in a terminal
+- ```pip install pandas``` or if you're using Anaconda use ```conda install pandas``` in a terminal
