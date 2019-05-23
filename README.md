@@ -1,6 +1,5 @@
-# Data Science References
-A separate repository from my archives that contains all my data science studies and references.  
-By keeping the two separate, I could focus on an extremely specialized field within this repository.
+# Data Analysis References
+A separate repository from my archives that contains all my data analysis studies and references.  
 
 # Anaconda
 Anaconda is a Python/R Data Science platform that automates many of the complicated tasks to set-up data science projects.
