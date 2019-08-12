@@ -23,12 +23,12 @@ Why are SQL databases called "relational"? This is because the tables in the dat
 For example, let's say there are two tables of ```users``` and ```countries```.
 
 The ```users``` table has 3 columns:
-- id is the id of the user
-- country_id is the id of the country that the user is from
+- id (primary key) is the id of the user
+- country_id (foreign key) is the id of the country that the user is from
 - full_name is the name of the user
 
 The ```countries``` table has 2 columns:
-- id is the id of the country
+- id (primary key) is the id of the country
 - country_name is the name of the country
 
 Let's say there is a row in the ```users``` table of: id = 1, country_id = 5, full_name = "Pravat Bhusal"  
